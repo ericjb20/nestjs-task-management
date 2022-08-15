@@ -71,3 +71,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Eric's Development Notes
+
+# nestjs-zero-to-hero
+# https://www.udemy.com/course/nestjs-zero-to-hero
+
+# Best Practices for Branch Protection
+# https://www.youtube.com/watch?v=gUJ52Shwtm0
+
+# Differences between NPM and YARN
+# https://www.youtube.com/watch?v=1U_m7mvNz4c
